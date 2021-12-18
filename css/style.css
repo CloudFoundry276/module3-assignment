@@ -5,6 +5,9 @@
 nav {
     background-color: #999999 !important;
     border: 1px solid #000000 !important;
+    background-image: none !important;
+    background-repeat: no-repeat !important;
+    border-radius: 0 !important;
 }
 
 .navbar-brand {

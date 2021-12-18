@@ -4,6 +4,12 @@
 
 nav {
     background-color: #999999 !important;
+    border: 1px solid #000000;
+}
+
+.navbar-brand {
+    font-weight: bold;
+    padding-left: 50px;
 }
 
 .data {
